@@ -1,5 +1,11 @@
 # Note Taker
 
+Deployed Application (also linked in readme):
+https://github.com/Mikkal1/11Notetaker.git
+
+Github Repository (also linked in readme):
+https://mikkal1.github.io/11Notetaker/
+
 ## Description
 
 Note Taker is an application that can be used to write, save, and retrieve notes. It uses an Express.js back end and saves/retrieves note data from a JSON file.
