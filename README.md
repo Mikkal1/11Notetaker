@@ -1,7 +1,7 @@
 # Note Taker
 
 Deployed Application (also linked in readme):
-https://github.com/Mikkal1/11Notetaker.git
+https://mighty-sierra-48156-ae74ecc60205.herokuapp.com/
 
 Github Repository (also linked in readme):
 https://mikkal1.github.io/11Notetaker/
